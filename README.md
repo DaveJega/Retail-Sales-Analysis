@@ -42,6 +42,7 @@ The dataset contains retail transaction records covering 2014–2017, including:
 • Quantity and discount
 
 • Regional information
+<img width="1920" height="1080" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/78eba20b-7767-46f3-98e8-ae3e48d684f2" />
 
 
 The analysis was conducted using the dbo.Superstore_cleaned table in the RetailSalesDB database.
@@ -59,47 +60,80 @@ SQL Analysis Performed
 10. Shipping performance analysis
 11. Sub-category analysis
 12. Customer segmentation
+<img width="1920" height="1080" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/0799a92c-1d49-4468-bb7b-fe827ae0b606" />
 
 Key Findings
+
+
 • Total sales were approximately 2.30 million.
+
 • Total profit was approximately 286,410.
+
 • The business recorded 5,008 distinct orders and 793 customers.
+
 • Technology generated the highest sales and profit among product categories.
+
 • The West region recorded the highest sales and profit.
+
 • Furniture had a relatively low profit margin compared with other categories.
+
 • Medium and high discount groups recorded negative profits.
+
 • Sales increased significantly in 2016 and 2017.
+
 • Canon imageCLASS 2200 Advanced Copier was the highest-performing product by sales and profit.
+
 • Copiers was the most profitable sub-category, while Tables recorded a cumulative loss.
+
 • Tamara Chand was the highest-selling and highest-profit customer.
+
 • 152 customers recorded negative cumulative profitability.
+
 • Customer segmentation showed that Medium Value customers generated the highest total sales, while High Value customers generated the highest total profit.
+
 
 Business Recommendations
 • Review pricing and cost structures in low-margin product categories.
+
 • Reassess discount policies, particularly for heavily discounted products.
+
 • Investigate regional differences in profitability.
+
 • Maintain strong relationships with high-value customers.
+
 • Develop targeted campaigns to encourage medium-value customers to increase their spending.
+
 • Investigate loss-making products and sub-categories before making inventory or pricing decisions.
 
+
 Project Structure
+
 Retail-Sales-SQL-Project/
 │
 ├── Retail_Sales_Performance_Analysis.sql
+
 ├── Retail_Sales_Business_Findings.docx
+
 └── README.md
 
+
 Conclusion
+
 This project demonstrates the application of SQL Server in transforming retail transaction data into meaningful business insights.
 Through data aggregation, customer segmentation, trend analysis, and profitability evaluation, the project identifies important performance patterns and provides recommendations to support better business decisions.
 
 
 Skills Demonstrated
 • SQL querying and data aggregation
+
 • Common Table Expressions (CTEs)
+
 • Window functions
+
 • Data analysis and business intelligence
+
 • Customer segmentation
+
 • Trend and profitability analysis
+
 • Business interpretation and reporting
