@@ -4,12 +4,19 @@ This project analyses retail sales data to evaluate business performance, identi
 The analysis focuses on sales performance across product categories, regions, customers, discounts, shipping methods, and time periods.
 Business Objectives
 • Evaluate overall sales and profitability.
+
 • Identify the best- and worst-performing product categories.
+
 • Compare regional sales and profit performance.
+
 • Analyse the relationship between discount levels and profitability.
+
 • Evaluate monthly and annual sales trends.
+
 • Identify high-performing and loss-making products.
+
 • Understand customer purchasing patterns and profitability.
+
 • Segment customers according to their sales contribution.
 
 Tools and Technologies
