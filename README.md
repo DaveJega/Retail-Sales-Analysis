@@ -3,6 +3,7 @@ Project Overview
 This project analyses retail sales data to evaluate business performance, identify profitability trends, understand customer behaviour, and generate actionable business recommendations using SQL Server.
 The analysis focuses on sales performance across product categories, regions, customers, discounts, shipping methods, and time periods.
 Business Objectives
+
 • Evaluate overall sales and profitability.
 
 • Identify the best- and worst-performing product categories.
@@ -20,19 +21,28 @@ Business Objectives
 • Segment customers according to their sales contribution.
 
 Tools and Technologies
+
 • Microsoft SQL Server
+
 • SQL Server Management Studio (SSMS)
+
 • SQL
 
 Dataset
 The project uses the Sample Superstore dataset.
 The dataset contains retail transaction records covering 2014–2017, including:
 • Order and shipping dates
+
 • Customer information
+
 • Product categories and sub-categories
+
 • Sales and profit
+
 • Quantity and discount
+
 • Regional information
+
 
 The analysis was conducted using the dbo.Superstore_cleaned table in the RetailSalesDB database.
 
